@@ -93,6 +93,9 @@
 
 #description{
     font-size: x-large;
+    position: relative;
+    text-align: center;
+    color:rgb(77, 76, 76);
 }
 
 
